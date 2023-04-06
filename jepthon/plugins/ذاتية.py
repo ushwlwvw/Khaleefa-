@@ -15,8 +15,8 @@ async def dato(event):
         caption=f"""
 - تـم حفظ الصـورة بنجـاح ✓ 
 - غير مبري الذمه اذا استخدمت الامر للابتزاز
-- CH: @Jepthon
-- Dev: @lMl10l
+- CH: @aaaalqp
+- Dev: @H_M_Dr
   """,
     )
     await event.delete()
@@ -50,8 +50,8 @@ async def reda(event):
                 caption=f"""
                 - تـم حفظ الصـورة بنجـاح ✓ 
                 - غير مبري الذمه اذا استخدمت الامر للابتزاز
-                - CH: @Jepthon
-                - Dev: @rd0r0
+                - CH: @aaaalqp
+                - Dev: @H_M_Dr
                 """,
                 )
                 os.remove(pic)
